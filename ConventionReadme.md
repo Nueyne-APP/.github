@@ -14,7 +14,7 @@
 ## **<커밋 메시지 구조>**
 
 ```bash
-type: Subject
+type:: Subject
 
 body
 
@@ -41,12 +41,12 @@ footer
 
 ```bash
 
-[FEAT]: (CORE)코어 기능 추가
-[FIX]: 00기능 spaceing Bug fix
-[DOCS]: readme ETC 수정
-![HOTFIX]: APP Crash main View oo기능 수정
+[FEAT]:: (CORE)코어 기능 추가
+[FIX]:: 00기능 spaceing Bug fix
+[DOCS]:: readme ETC 수정
+![HOTFIX]:: APP Crash main View oo기능 수정
 
 
 ```
 
-![image](https://github.com/Nueyne-APP/.github/assets/83629930/8ad5da0c-b21f-4519-b8c7-dcfee58b4114)
+
