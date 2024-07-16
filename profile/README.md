@@ -15,17 +15,30 @@ Convention: [규칙 바로가기](https://github.com/Nueyne-APP/.github/blob/mai
 INFO
 - IOS: release 1.0.0
 
+### ELEXIR 2.0
+[ELEXIR LINK](https://github.com/Nueyne-APP/ELEXIR_US)
+
+INFO
+- IOS: Not uploaded
+
 ### Smile 
 [SMILE LINK](https://github.com/Nueyne-APP/ELEXIR_IOS)
 
 INFO
-- IOS: release 1.0.5
+- IOS: release 1.0.9
+
+### ADDNOX & WITHNOX
+[SMILE LINK](https://github.com/Nueyne-APP/ADDNOX_i)
+
+INFO
+- IOS: Develop ( End Date September Last)
+
 
 ### NUEYNE 
 [NUEYNE LINK](https://github.com/Nueyne-APP/ELEXIR_IOS)
 
 INFO
-- IOS: inhouse 1.0.0
+- IOS: inhouse 1.0.4
 
 ### CELLENA 
 [CELLENA LINK](https://github.com/Nueyne-APP/ELEXIR_IOS)
