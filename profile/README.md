@@ -45,7 +45,7 @@ INFO
 
 - IOS: release 1.0.1
 
-###개발환경
+### 개발환경
 ---
 - IOS
   - Xcode 14.3 sub (14.2.1)
