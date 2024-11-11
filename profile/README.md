@@ -28,7 +28,8 @@ INFO
 - IOS: release 1.0.9
 
 ### ADDNOX & WITHNOX
-[SMILE LINK](https://github.com/Nueyne-APP/ADDNOX_i)
+[ADDNOX](https://github.com/Nueyne-APP/ADDNOX_iOS)
+[WITHNOX](https://github.com/Nueyne-APP/WITHNOX_iOS)
 
 INFO
 - IOS: Develop ( End Date September Last)
